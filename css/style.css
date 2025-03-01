@@ -7,3 +7,12 @@
     background-color: black;
     height: 20px;
 }
+.red-line{
+    background-color: red;
+    height: 2px;
+}
+.card{
+    background-color: #6a76d4 !important;
+    border: none !important;
+    border-radius: 0px !important;
+}
